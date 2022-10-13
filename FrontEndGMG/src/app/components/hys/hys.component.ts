@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./hys.component.css']
 })
 export class HysComponent implements OnInit {
+HTML: string | String[] | undefined;
 
   constructor() { }
 
